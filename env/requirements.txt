@@ -1,0 +1,18 @@
+# notebook
+jupyterlab
+
+# basic
+numpy
+pandas 
+matplotlib
+seaborn
+opencv-python
+
+# ml
+scikit-learn
+albumentations
+segmentation_models_pytorch
+
+# geo
+tifffile
+
